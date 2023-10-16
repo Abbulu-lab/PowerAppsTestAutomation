@@ -1,6 +1,7 @@
 {
   "TestURLs": 
   [
+    https://dev.azure.com/abhinavdev699/Demo/_build
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}",
     "https://apps.powerapps.com/play/{appId}?tenantId={tenantId}&__PATestCaseId={testCaseId}"
